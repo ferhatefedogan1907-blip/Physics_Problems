@@ -1,22 +1,56 @@
-## Solution
+# Problem 2: Electric Potential
 
-Electric potential due to a point charge is
+## Problem
+
+Point charges
 
 $$
-V = k \frac{q}{r}
++1\ \mathrm{C},\ -2\ \mathrm{C},\ +3\ \mathrm{C},\ -4\ \mathrm{C}
 $$
 
-Electric potential is a scalar quantity, so we add the potentials algebraically.
+are placed at the corners of a square with side length
 
-At the center of the square, the distance from the center to each corner is the same.
+$$
+a = 1.0\ \mathrm{m}
+$$
 
-For a square of side length \(a\), the diagonal is
+Calculate the electric potential at the center of the square.
+
+---
+
+## Idea
+
+The electric potential created by a point charge is
+
+$$
+V = k\frac{q}{r}
+$$
+
+The most important point is that electric potential is a **scalar quantity**.
+
+So, unlike electric field or force, we do not add directions.  
+We only add the values algebraically, including the signs of the charges.
+
+At the center of the square, all four corners are at the same distance from the center.  
+Therefore, every charge has the same distance \(r\).
+
+---
+
+## Distance from the center to a corner
+
+For a square with side length \(a\), the diagonal is
 
 $$
 d = a\sqrt{2}
 $$
 
-The distance from the center to a corner is half of the diagonal:
+The center of the square is halfway along the diagonal, so the distance from the center to one corner is
+
+$$
+r = \frac{d}{2}
+$$
+
+Therefore,
 
 $$
 r = \frac{a\sqrt{2}}{2}
@@ -34,35 +68,72 @@ $$
 r = \frac{\sqrt{2}}{2}\ \mathrm{m}
 $$
 
-The total potential is
+---
+
+## Total potential
+
+The total potential at the center is the sum of the potentials from all charges:
 
 $$
-V = k \left( \frac{q_1}{r} + \frac{q_2}{r} + \frac{q_3}{r} + \frac{q_4}{r} \right)
+V_{\text{total}} = V_1 + V_2 + V_3 + V_4
 $$
 
-Since all charges have the same distance from the center:
+Using the formula
 
 $$
-V = \frac{k}{r}(q_1 + q_2 + q_3 + q_4)
+V = k\frac{q}{r}
 $$
 
-Now add the charges:
+we can write
 
 $$
-q_1 + q_2 + q_3 + q_4 = 1 - 2 + 3 - 4
+V_{\text{total}}
+=
+k\frac{q_1}{r}
++
+k\frac{q_2}{r}
++
+k\frac{q_3}{r}
++
+k\frac{q_4}{r}
+$$
+
+Since all distances are the same, we can factor out \(\frac{k}{r}\):
+
+$$
+V_{\text{total}}
+=
+\frac{k}{r}
+(q_1 + q_2 + q_3 + q_4)
+$$
+
+Now we add the charges with their signs:
+
+$$
+q_1 + q_2 + q_3 + q_4
+=
+1 - 2 + 3 - 4
 $$
 
 $$
-q_{\text{total}} = -2\ \mathrm{C}
+q_1 + q_2 + q_3 + q_4
+=
+-2\ \mathrm{C}
 $$
 
-Therefore,
+So,
 
 $$
-V = \frac{k(-2)}{r}
+V_{\text{total}}
+=
+\frac{k(-2)}{r}
 $$
 
-Using
+---
+
+## Calculation
+
+Use
 
 $$
 k = 8.99 \times 10^9\ \mathrm{N\,m^2/C^2}
@@ -71,31 +142,59 @@ $$
 and
 
 $$
-r = \frac{\sqrt{2}}{2}
+r = \frac{\sqrt{2}}{2}\ \mathrm{m}
 $$
 
-we get
+Then
 
 $$
-V = \frac{(8.99 \times 10^9)(-2)}{\sqrt{2}/2}
+V_{\text{total}}
+=
+\frac{(8.99 \times 10^9)(-2)}{\sqrt{2}/2}
 $$
 
-This can be written as
+Dividing by \(\frac{\sqrt{2}}{2}\) is the same as multiplying by \(\sqrt{2}\):
 
 $$
-V = -2(8.99 \times 10^9)\sqrt{2}
+V_{\text{total}}
+=
+-2(8.99 \times 10^9)\sqrt{2}
 $$
 
-Now calculate:
+$$
+V_{\text{total}}
+\approx
+-2.54 \times 10^{10}\ \mathrm{V}
+$$
 
-$$
-V \approx -2.54 \times 10^{10}\ \mathrm{V}
-$$
+---
 
 ## Final Answer
 
 $$
-\boxed{V \approx -2.54 \times 10^{10}\ \mathrm{V}}
+\boxed{V_{\text{total}} \approx -2.54 \times 10^{10}\ \mathrm{V}}
 $$
 
-The potential is negative because the total algebraic sum of the charges is negative.
+The potential is negative because the algebraic sum of the charges is negative.
+
+---
+
+## How to explain during class
+
+First, I would say that electric potential is a scalar quantity.  
+That means we do not need to calculate directions like in electric force or electric field.
+
+All four charges are placed at the corners of the same square, so the distance from each charge to the center is the same.
+
+Because the distance is the same, I can factor out \(\frac{k}{r}\).  
+Then I only need to add the charges with their signs:
+
+$$
+1 - 2 + 3 - 4 = -2
+$$
+
+So the total potential is negative, and the final answer is
+
+$$
+V_{\text{total}} \approx -2.54 \times 10^{10}\ \mathrm{V}
+$$
