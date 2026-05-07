@@ -94,28 +94,3 @@ The force is perpendicular to both the velocity and the magnetic field.
 
 ---
 
-## How to explain during class
-
-The main point is that the particle enters the magnetic field perpendicularly.
-
-Because of this, the angle between velocity and magnetic field is
-
-$$
-90^\circ
-$$
-
-So the sine term becomes one.
-
-Then the Lorentz force formula becomes simple:
-
-$$
-F = qvB
-$$
-
-After substituting the values, the force is
-
-$$
-F = 1.0 \times 10^{-13} N
-$$
-
-The direction is perpendicular to both velocity and magnetic field, but the question asks only for the magnitude.
