@@ -4,9 +4,7 @@
 
 The human eye is most sensitive to light with a wavelength of about:
 
-\[
-\lambda = 550 \text{ nm}
-\]
+λ = 550 nm
 
 What color does this correspond to in the visible spectrum?  
 What is the frequency of this light?
@@ -15,25 +13,14 @@ What is the frequency of this light?
 
 ## Given
 
-\[
-\lambda = 550 \text{ nm}
-\]
+λ = 550 nm  
 
-Speed of light:
+Speed of light:  
+c = 3.0 × 10^8 m/s  
 
-\[
-c = 3.0 \times 10^8 \text{ m/s}
-\]
-
-Convert nanometers to meters:
-
-\[
-550 \text{ nm} = 550 \times 10^{-9} \text{ m}
-\]
-
-\[
-\lambda = 5.5 \times 10^{-7} \text{ m}
-\]
+Convert nanometers to meters:  
+550 nm = 550 × 10^-9 m  
+λ = 5.5 × 10^-7 m  
 
 ---
 
@@ -41,54 +28,41 @@ Convert nanometers to meters:
 
 For electromagnetic waves:
 
-\[
-c = \lambda f
-\]
+c = λ · f  
 
 To find frequency:
 
-\[
-f = \frac{c}{\lambda}
-\]
+f = c / λ  
 
 ---
 
 ## Calculation
 
-\[
-f = \frac{3.0 \times 10^8}{5.5 \times 10^{-7}}
-\]
+f = (3.0 × 10^8) / (5.5 × 10^-7)  
 
-\[
-f \approx 5.45 \times 10^{14} \text{ Hz}
-\]
+f ≈ 5.45 × 10^14 Hz  
 
 ---
 
 ## Color
 
-A wavelength of about **550 nm** corresponds to **green light** in the visible spectrum.
+A wavelength of 550 nm corresponds to **green light**.
 
 ---
 
 ## Final Answer
 
-The light is **green**.
-
-\[
-f \approx 5.45 \times 10^{14} \text{ Hz}
-\]
+Color: **Green**  
+Frequency: **5.45 × 10^14 Hz**
 
 ---
 
 ## Short Explanation
 
-This problem uses the relationship between wavelength and frequency.  
-Since light is an electromagnetic wave, its speed is:
+This problem uses the relationship between wavelength and frequency.
 
-\[
-c = \lambda f
-\]
+c = λf shows that wavelength and frequency are inversely proportional.
 
-The wavelength is given, so we rearrange the formula to find frequency.  
-A wavelength of 550 nm lies in the green region of the visible spectrum.
+Since the wavelength is given, we calculate the frequency.
+
+550 nm lies in the green region of the visible spectrum.
