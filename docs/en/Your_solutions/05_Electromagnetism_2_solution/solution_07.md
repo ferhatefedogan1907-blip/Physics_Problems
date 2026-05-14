@@ -4,7 +4,7 @@
 
 The human eye is most sensitive to light with a wavelength of about:
 
-λ = 550 nm
+$\lambda = 550 \, \text{nm}$
 
 What color does this correspond to in the visible spectrum?  
 What is the frequency of this light?
@@ -13,14 +13,14 @@ What is the frequency of this light?
 
 ## Given
 
-λ = 550 nm  
+$\lambda = 550 \, \text{nm}$  
 
 Speed of light:  
-c = 3.0 × 10^8 m/s  
+$c = 3.0 \times 10^8 \, \text{m/s}$  
 
 Convert nanometers to meters:  
-550 nm = 550 × 10^-9 m  
-λ = 5.5 × 10^-7 m  
+$550 \, \text{nm} = 550 \times 10^{-9} \, \text{m}$  
+$\lambda = 5.5 \times 10^{-7} \, \text{m}$  
 
 ---
 
@@ -28,19 +28,19 @@ Convert nanometers to meters:
 
 For electromagnetic waves:
 
-c = λ · f  
+$c = \lambda \cdot f$  
 
 To find frequency:
 
-f = c / λ  
+$f = \frac{c}{\lambda}$  
 
 ---
 
 ## Calculation
 
-f = (3.0 × 10^8) / (5.5 × 10^-7)  
+$f = \frac{3.0 \times 10^8}{5.5 \times 10^{-7}}$  
 
-f ≈ 5.45 × 10^14 Hz  
+$f \approx 5.45 \times 10^{14} \, \text{Hz}$  
 
 ---
 
@@ -53,7 +53,7 @@ A wavelength of 550 nm corresponds to **green light**.
 ## Final Answer
 
 Color: **Green**  
-Frequency: **5.45 × 10^14 Hz**
+Frequency: **$5.45 \times 10^{14} \, \text{Hz}$**
 
 ---
 
@@ -61,7 +61,7 @@ Frequency: **5.45 × 10^14 Hz**
 
 This problem uses the relationship between wavelength and frequency.
 
-c = λf shows that wavelength and frequency are inversely proportional.
+$c = \lambda f$ shows that wavelength and frequency are inversely proportional.
 
 Since the wavelength is given, we calculate the frequency.
 
