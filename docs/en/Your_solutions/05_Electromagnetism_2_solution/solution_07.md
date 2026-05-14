@@ -18,10 +18,6 @@ $\lambda = 550 \, \text{nm}$
 Speed of light:  
 $c = 3.0 \times 10^8 \, \text{m/s}$  
 
-Convert nanometers to meters:  
-$550 \, \text{nm} = 550 \times 10^{-9} \, \text{m}$  
-$\lambda = 5.5 \times 10^{-7} \, \text{m}$  
-
 ---
 
 ## Formula
@@ -37,6 +33,16 @@ $f = \frac{c}{\lambda}$
 ---
 
 ## Calculation
+
+First, we convert the wavelength from nanometers to meters:
+
+$1 \, \text{nm} = 10^{-9} \, \text{m}$  
+
+$550 \, \text{nm} = 550 \times 10^{-9} \, \text{m}$  
+
+$= 5.5 \times 10^{-7} \, \text{m}$  
+
+Now we substitute into the formula:
 
 $f = \frac{3.0 \times 10^8}{5.5 \times 10^{-7}}$  
 
@@ -63,6 +69,6 @@ This problem uses the relationship between wavelength and frequency.
 
 $c = \lambda f$ shows that wavelength and frequency are inversely proportional.
 
-Since the wavelength is given, we calculate the frequency.
+Since the wavelength is given, we convert it into meters and calculate the frequency.
 
 550 nm lies in the green region of the visible spectrum.
