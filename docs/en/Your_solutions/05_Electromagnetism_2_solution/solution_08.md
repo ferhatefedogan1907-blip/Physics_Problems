@@ -1,39 +1,81 @@
-# Electromagnetic Spectrum – Solution
+# Electromagnetic Spectrum – Detailed Solution
 
-In this problem, we are asked to arrange different types of electromagnetic radiation according to increasing wavelength.
+In this problem, we are asked to arrange different types of electromagnetic radiation in order of increasing wavelength.
 
-To solve this problem, we need to remember the relationship between wavelength, frequency, and energy.
+To solve the problem correctly, we need to understand the relationship between wavelength, frequency, and energy in electromagnetic waves.
 
-As the wavelength increases:
-- the frequency decreases,
-- and the energy also decreases.
-
-So, radiation with the shortest wavelength has the highest energy, while radiation with the longest wavelength has the lowest energy.
-
-Now, let us arrange the given electromagnetic waves from the shortest wavelength to the longest wavelength.
-
-## Correct Order
-
-1. Gamma rays  
-2. X-rays  
-3. Ultraviolet  
-4. Infrared  
-5. Microwaves  
-6. Radio waves  
-
-So the final order is:
+The relationship is:
 
 \[
-\text{Gamma rays} \rightarrow \text{X-rays} \rightarrow \text{Ultraviolet} \rightarrow \text{Infrared} \rightarrow \text{Microwaves} \rightarrow \text{Radio waves}
+c = \lambda f
 \]
 
-## Explanation of the Order
+where:
 
-- Gamma rays have the shortest wavelength and the highest energy.
-- X-rays are slightly longer than gamma rays.
-- Ultraviolet waves come after X-rays.
-- Infrared radiation has longer wavelengths than visible light and ultraviolet.
-- Microwaves are longer than infrared waves.
-- Radio waves have the longest wavelength and the lowest energy in the electromagnetic spectrum.
+- \(c\) = speed of light,
+- \(\lambda\) = wavelength,
+- \(f\) = frequency.
 
-Therefore, this is the correct order of increasing wavelength.
+From this equation, we understand that wavelength and frequency are inversely proportional.
+
+This means:
+
+- if wavelength increases, frequency decreases,
+- if wavelength decreases, frequency increases.
+
+Also, electromagnetic wave energy is proportional to frequency:
+
+\[
+E = hf
+\]
+
+where:
+
+- \(E\) = energy,
+- \(h\) = Planck constant,
+- \(f\) = frequency.
+
+Therefore:
+
+- short wavelength → high frequency → high energy,
+- long wavelength → low frequency → low energy.
+
+Now we can arrange the given electromagnetic waves from the shortest wavelength to the longest wavelength.
+
+## Step-by-Step Order
+
+### 1. Gamma Rays
+Gamma rays have the shortest wavelength and the highest energy in the electromagnetic spectrum.
+
+### 2. X-rays
+X-rays have slightly longer wavelengths than gamma rays, but they still have very high energy.
+
+### 3. Ultraviolet Radiation
+Ultraviolet waves have longer wavelengths than X-rays and lower energy.
+
+### 4. Infrared Radiation
+Infrared waves have longer wavelengths than ultraviolet radiation and are commonly associated with heat.
+
+### 5. Microwaves
+Microwaves have longer wavelengths than infrared waves and are used in communication systems and microwave ovens.
+
+### 6. Radio Waves
+Radio waves have the longest wavelengths and the lowest frequencies and energies in the electromagnetic spectrum.
+
+# Final Answer
+
+\[
+\text{Gamma rays}
+\rightarrow
+\text{X-rays}
+\rightarrow
+\text{Ultraviolet}
+\rightarrow
+\text{Infrared}
+\rightarrow
+\text{Microwaves}
+\rightarrow
+\text{Radio waves}
+\]
+
+This is the correct order of electromagnetic radiation in increasing wavelength.
