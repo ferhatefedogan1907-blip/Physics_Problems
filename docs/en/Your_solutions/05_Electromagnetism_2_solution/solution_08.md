@@ -6,7 +6,7 @@ To solve the problem correctly, we need to understand the relationship between w
 
 The relationship is:
 
-c = lambda × f
+c = λ × f
 
 where:
 
