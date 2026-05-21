@@ -45,21 +45,37 @@ Now we can arrange the given electromagnetic waves from the shortest wavelength 
 # Step-by-Step Order
 
 ## 1. Gamma Rays
+
 Gamma rays have the shortest wavelength and the highest energy in the electromagnetic spectrum.
 
+---
+
 ## 2. X-rays
+
 X-rays have slightly longer wavelengths than gamma rays, but they still have very high energy.
 
+---
+
 ## 3. Ultraviolet Radiation
+
 Ultraviolet waves have longer wavelengths than X-rays and lower energy.
 
+---
+
 ## 4. Infrared Radiation
+
 Infrared waves have longer wavelengths than ultraviolet radiation and are commonly associated with heat.
 
+---
+
 ## 5. Microwaves
+
 Microwaves have longer wavelengths than infrared waves and are used in communication systems and microwave ovens.
 
+---
+
 ## 6. Radio Waves
+
 Radio waves have the longest wavelengths and the lowest frequencies and energies in the electromagnetic spectrum.
 
 # Final Answer
@@ -78,4 +94,6 @@ $$
 \text{Radio waves}
 $$
 
-This is the correct order of electromagnetic radiation in increasing wavelength.
+Therefore, the correct order of electromagnetic radiation in increasing wavelength is:
+
+Gamma rays → X-rays → Ultraviolet → Infrared → Microwaves → Radio waves
