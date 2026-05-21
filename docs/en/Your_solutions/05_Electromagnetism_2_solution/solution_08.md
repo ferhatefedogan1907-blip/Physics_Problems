@@ -6,15 +6,13 @@ To solve the problem correctly, we need to understand the relationship between w
 
 The relationship is:
 
-$$
-c = \lambda f
-$$
+c = lambda × f
 
 where:
 
-- \(c\) = speed of light
-- \(\lambda\) = wavelength
-- \(f\) = frequency
+- c = speed of light
+- lambda = wavelength
+- f = frequency
 
 From this equation, we understand that wavelength and frequency are inversely proportional.
 
@@ -25,15 +23,13 @@ This means:
 
 Also, electromagnetic wave energy is proportional to frequency:
 
-$$
-E = hf
-$$
+E = h × f
 
 where:
 
-- \(E\) = energy
-- \(h\) = Planck constant
-- \(f\) = frequency
+- E = energy
+- h = Planck constant
+- f = frequency
 
 Therefore:
 
@@ -80,19 +76,7 @@ Radio waves have the longest wavelengths and the lowest frequencies and energies
 
 # Final Answer
 
-$$
-\text{Gamma rays}
-\rightarrow
-\text{X-rays}
-\rightarrow
-\text{Ultraviolet}
-\rightarrow
-\text{Infrared}
-\rightarrow
-\text{Microwaves}
-\rightarrow
-\text{Radio waves}
-$$
+Gamma rays → X-rays → Ultraviolet → Infrared → Microwaves → Radio waves
 
 Therefore, the correct order of electromagnetic radiation in increasing wavelength is:
 
