@@ -11,7 +11,7 @@ c = lambda × f
 where:
 
 - c = speed of light
-- lambda = wavelength
+- λ = wavelength
 - f = frequency
 
 From this equation, we understand that wavelength and frequency are inversely proportional.
